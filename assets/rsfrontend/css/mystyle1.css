@@ -1,0 +1,1092 @@
+html,body{
+    min-height: 100%;
+    font-family: eurostilebold;
+   font-weight: bold;
+}
+     @font-face {
+  font-family: 'eurostilebold';
+    src: url('eurostile-bold-1361505679-webfont.eot');
+    src: url('eurostile-bold-1361505679-webfont.eot?#iefix') format('embedded-opentype'),
+         url('eurostile-bold-1361505679-webfont.woff2') format('woff2'),
+         url('eurostile-bold-1361505679-webfont.woff') format('woff'),
+         url('eurostile-bold-1361505679-webfont.ttf') format('truetype'),
+         url('eurostile-bold-1361505679-webfont.svg#eurostilebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.backbody {
+    background-image: url('../img/carbonFiber.jpg');
+    background-size: cover;
+    background-repeat:none;
+}
+.fristh{
+    text-align: center;
+    color: white;
+}
+.fristh > h1 {
+   font-family: eurostilebold;
+    font-size: 80px;
+    padding-bottom: 80px;
+    padding-top: 0px !important;
+margin-top:0px !important;
+}
+.kubex{
+    color: white;
+    text-align: center;
+    
+}
+.weighttext h1 {
+    color: white;
+    font-family: eurostilebold;
+    font-size: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+    color: #C4C4C6;
+}
+.kubex h1 {
+    font-family: eurostilebold;
+    font-size: 200px;
+    font-weight: bold;
+}
+.thirdinputbox{
+    text-align: center;
+    }
+.secondh{
+    text-align: center;
+    color: white;
+}
+.secondh > h1 {
+     font-family: eurostilebold;
+    font-size: 80px;
+    padding-bottom: 10px;
+    padding-top: 10px;    
+}
+.thirdh{
+    text-align: center;
+    color: white; 
+}
+
+.thirdh > h1 {
+ font-family: eurostilebold;
+    font-size: 80px;       
+}
+.forth{
+   text-align: center;
+    color: white;  
+}
+.forth h1 {
+ font-family: eurostilebold;
+    font-size: 80px; 
+    color: #C4C4C6;
+}
+.firstinputbox{
+text-align: center;
+padding-top: 30px;
+padding-bottom: 160px;
+}
+.secondinputbox{
+line-height: 125px;
+padding: 30px 115px 160px;
+text-align: center;
+color:#1a1a1b;
+}
+.firstinput {
+       border: medium none;
+    border-radius: 30px;
+    font-size: 115px;
+    font-weight: bold;
+    padding: 9px 0;
+    text-align: center;
+    width: 80%;
+}
+.secondinput {
+    background-color: white;
+    border: medium none;
+    border-radius: 30px;
+    color: black;
+    font-size: 115px;
+    font-weight: bold;
+    padding: 19px 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.btn.btn-danger.clear {
+    border: medium none;
+    border-radius: 15px;
+    font-size: 52px;  
+   padding: 15px 90px;
+    margin-top: 47px;
+   }
+.btn-success.enter1{
+    border: medium none;
+    border-radius: 15px;
+    font-size: 52px;
+    margin-left: 52px;
+    margin-top: 51px;
+    padding: 15px 90px;
+    
+}
+.btn-success.advance{
+    background-color: #87c846;
+    border-radius: 30px;
+    font-family: eurostilebold;
+    font-size: 151px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 164px;
+    border:none;
+}
+
+.btn-success.same{
+    background-color: #87c846;
+    border-radius: 30px;
+    font-family: eurostilebold;
+    font-size: 151px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 252px;
+    border:none;
+}
+.btn-danger.change{
+    background-color:#E4352F;
+    border-radius: 30px;
+    font-family: eurostilebold;
+    font-size: 151px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 164px;
+    border:none;
+}
+  .weighttex2{
+     color: white;
+    font-size: 91px;
+    font-weight: bold;
+    line-height: 128px;
+    text-align: center;
+     padding-bottom: 23px;
+    padding-top: 28px;
+
+   }
+   
+.weighttex3{
+    text-align: center;
+}
+.btn.btn-danger.no {
+    border: medium none;
+    border-radius: 15px;
+    font-size: 52px;  
+   padding: 20px 170px;
+    margin-top: 47px;
+    background-color: #E4352F;
+   }
+   .yes{
+   border: medium none;
+    border-radius: 15px;
+    font-size: 52px;
+    margin-left: 52px;
+    margin-top: 51px;
+    padding: 20px 170px;
+   background-color: #87C846;
+   } 
+.fristbutton{
+    text-align: center;
+    padding-top: 20px
+}
+.btn.btn-defult.one {
+   background-color: white;
+    border-radius: 32px;
+    font-size: 158px;
+    font-weight: bold;
+    margin: 20px 0;
+    color: 6f7175;
+     font-ffont-family: eurostilebold;
+    padding: 15px 448px;
+    border:none;
+}
+.btn.btn-success.two {
+    background-color: #fff;
+    border-radius: 32px;
+    font-size: 151px;
+    font-weight: bold;
+    margin: 20px 0;
+    font-family: eurostilebold;
+    padding: 15px 448px;
+    border:none;
+}
+.btn.btn-defult.three{
+   background-color: white;
+    border-radius: 32px;
+    font-size: 151px;
+    font-weight: bold;
+     font-family: eurostilebold;
+    color: 6f7175;
+    margin: 20px 0;
+    padding: 15px 448px;
+    border:none;
+}
+.btn.btn-success.enter {
+    background-color: #87c846;
+    border-radius: 30px;
+    font-family: eurostilebold;
+    font-size: 151px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 234px;
+    border:none;
+}
+
+   .weight p {
+    font-weight: bold;
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    font-family: eurostilebold;
+    font-size: 325px;
+    line-height: 336px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.footeri{
+   background-image: url("../img/kubex.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 243px;
+    margin-bottom: 50px;
+    margin-top: 120px;
+    width: 100%;
+}
+
+/* 
+new css sss
+ */
+ 
+ .errorp1{
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:26px;
+	  color: #fff;
+}
+.errorp2{
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:21px;
+	  color: #fff;
+}
+/* 
+new css sss
+ */
+@media only screen and (max-width: 1000px) {
+  .fristh > h1 {
+  font-family: eurostilebold;
+    font-size: 55px;
+    padding-bottom: 35px;
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+}
+.secondh > h1 {
+     font-family: eurostilebold;
+    font-size: 55px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+   .secondinputbox {
+    color: #1a1a1b;
+    line-height: 140px;
+    padding: 13px 22px 60px;
+    text-align: center;
+}
+.secondinput {
+    border-radius: 15px;
+    color: black;
+    font-size: 100px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.thirdh > h1 {
+ font-family: eurostilebold;
+    font-size: 55px;   
+}
+.firstinputbox{
+
+padding-bottom: 100px;
+  padding-top: 30px;
+}
+.btn-success.enter1{
+    border: medium none;
+    border-radius: 15px;
+    font-size: 39px;
+    margin-top: 47px;
+    padding: 15px 62px;
+    margin-left: 30px;    
+}
+.btn.btn-danger.clear {
+    border: medium none;
+    border-radius: 15px;
+    font-size: 39px;
+    margin-top: 47px;
+    padding: 15px 62px;
+}
+.btn.btn-danger.no{
+   border: medium none;
+    border-radius: 15px;
+    font-size: 50px;
+    margin-top: 47px;
+    padding: 15px 120px;
+    background-color: #E4352F;
+}
+.yes{
+ border: medium none;
+    border-radius: 15px;
+    font-size: 50px;
+    margin-top: 47px;
+    padding: 15px 120px;
+    margin-left: 30px;
+    background-color: #87C846;
+}
+.btn.btn-defult.one {
+  background-color: white;
+    border: medium none;
+    border-radius: 15px;
+    font-size: 67px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 13px 252px;
+}
+.btn.btn-success.two {
+    background-color: #fff;
+    border-radius: 15px;
+     font-size: 67px;
+    font-weight: bold;
+    margin: 10px 0;
+    font-family: eurostilebold;
+   padding: 13px 252px;
+    border:none;
+}
+.btn.btn-defult.three{
+   background-color: white;
+    border-radius: 15px;
+     font-size: 67px;
+    font-weight: bold;
+     font-family: eurostilebold;
+    color: 6f7175;
+    margin: 10px 0;
+     padding: 13px 252px;
+    border:none;
+}
+
+.btn.btn-success.enter {
+    background-color: #87c846;
+    border-radius: 15px;
+    ffont-family: eurostilebold;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 12px 175px;
+    border:none;
+}
+.btn-success.advance{
+  background-color: #87c846;
+    border-radius: 15px;
+    ffont-family: eurostilebold;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 12px 120px;
+    border:none;  
+}
+.btn-success.same {
+     background-color: #87c846;
+    border: medium none;
+    border-radius: 20px;
+    font-family: eurostilebold;
+    font-size: 98px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 18px 218px;
+}
+.btn-danger.change {
+    background-color: #e4352f;
+    border: medium none;
+    border-radius: 20px;
+    font-family: eurostilebold;
+    font-size: 98px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 18px 163px;
+}
+  .weighttex2 {
+    color: white;
+    font-size: 68px;
+    font-weight: bold;
+    line-height: 81px;
+    padding-bottom: 26px;
+    padding-top: 25px;
+    text-align: center;
+}
+   .forth h1 {
+    color: #c4c4c6;
+    font-family: eurostilebold;
+    font-size: 70px;
+}
+
+.weight p {
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    font-family: eurostilebold;
+    font-size: 300px;
+    line-height: 279px;
+    margin-left: 86px;
+    margin-right: 99px;
+    padding-bottom: 0;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.weighttext h1 {
+    color: white;
+    font-family: eurostilebold;
+    font-size: 53px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+     font-weight: bold;
+    color: #C4C4C6;
+}
+
+ .footeri{
+ background-image: url("../img/kubex copy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    margin-bottom: 13px;
+     margin-top:120px;
+    width: 100%;
+}   
+}
+@media only screen and (max-width: 900px){
+    
+}
+@media only screen and (max-width: 800px) {
+  .fristh > h1 {
+  font-family: eurostilebold;
+    font-size: 50px;
+    padding-bottom: 30px;
+    padding-top: 0px !important;
+margin-top: 0px !important;
+}
+.secondh > h1 {
+     font-family: eurostilebold;
+    font-size: 50px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.thirdh > h1 {
+ font-family: eurostilebold;
+    font-size: 50px;
+   }
+   .secondinputbox {
+    color: #1a1a1b;
+    line-height: 120px;
+    padding: 13px 22px 60px;
+    text-align: center;
+}
+.secondinput {
+    border-radius: 15px;
+    color: black;
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.btn.btn-defult.one {
+  background-color: white;
+    border: medium none;
+    border-radius: 15px;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 13px 200px;
+}
+.btn.btn-success.two {
+    background-color: #fff;
+    border-radius: 15px;
+     font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0;
+    font-family: eurostilebold;
+   padding: 13px 200px;
+    border:none;
+}
+.btn.btn-defult.three{
+   background-color: white;
+    border-radius: 15px;
+     font-size: 50px;
+    font-weight: bold;
+     font-family: eurostilebold;
+    color: 6f7175;
+    margin: 10px 0;
+     padding: 13px 200px;
+    border:none;
+}
+.btn.btn-success.enter {
+    background-color: #87c846;
+    border-radius: 15px;
+    ffont-family: eurostilebold;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 12px 135px;
+    border:none;
+}
+.btn-success.advance {
+    background-color: #87c846;
+    border: medium none;
+    border-radius: 15px;
+    font-size: 59px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 20px 128px;
+}
+.btn-success.same {
+    background-color: #87c846;
+    border: medium none;
+    border-radius: 20px;
+    font-family: eurostilebold;
+    font-size: 70px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 18px 188px;
+}
+.btn-danger.change {
+    background-color: #e4352f;
+    border: medium none;
+    border-radius: 20px;
+    font-family: eurostilebold;
+    font-size: 70px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 18px 144px;
+}
+  .weighttex2 {
+    color: white;
+    font-size: 61px;
+    font-weight: bold;
+    line-height: 81px;
+    padding-bottom: 26px;
+    padding-top: 25px;
+    text-align: center;
+}
+   .forth h1 {
+    color: #c4c4c6;
+    font-family: eurostilebold;
+    font-size: 70px;
+}
+.weight p {
+     font-weight: bold;
+    background-color: white;
+    border-radius: 30px;
+    color: black;
+    font-family: eurostilebold;
+    font-size: 305px;
+    line-height: 272px;
+    margin-left: 96px;
+    margin-right: 95px;
+    padding-bottom: 0;
+    padding-top: 5px;
+}
+.firstinputbox{
+padding-top: 30px;
+padding-bottom: 110px;
+}
+.firstinput {
+    border: medium none;
+    border-radius: 17px;
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 60px;
+    padding: 17px 0;
+    text-align: center;
+    
+}
+.btn.btn-danger.clear {
+     border: medium none;
+    border-radius: 10px;
+    font-size: 44px;
+    margin-top: 0;
+    padding: 8px 50px;
+}
+.btn.btn-danger.no{
+      border: medium none;
+    border-radius: 10px;
+    font-size: 44px;
+    margin-top: 0;
+    padding: 12px 120px;
+    background-color: #E4352F;
+}
+.yes{
+    border: medium none;
+   border: medium none;
+    border-radius: 10px;
+    font-size: 44px;
+    margin-top: 0;
+    padding: 12px 120px;
+    margin-left: 20px;
+    background-color: #87C846;
+}
+.btn-success.enter1{
+  border: medium none;
+   border: medium none;
+    border-radius: 10px;
+    font-size: 44px;
+    margin-top: 0;
+    padding: 8px 50px;
+    margin-left: 20px;
+}
+
+.weighttext h1 {
+    font-family: eurostilebold;
+    color: white;
+    font-size: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+     font-weight: bold;
+    color: #C4C4C6;
+}
+ .footeri{
+ background-image: url("../img/kubex copy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    margin-bottom: 13px;
+     margin-top: 80px;
+    width: 96%;
+}   
+}
+@media only screen and (max-width: 500px) {
+  .fristh > h1 {
+  font-family: eurostilebold;
+    font-size: 28px;
+    padding-bottom: 25px;
+    padding-top: 0px;
+margin-top:0px !important;
+}
+.secondh > h1 {
+     font-family: eurostilebold;
+    font-size: 28px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.thirdh > h1 {
+font-family: eurostilebold;
+    font-size: 30px;
+    padding-bottom: 0;    
+}
+.btn.btn-defult.one {
+  background-color: white;
+    border: medium none;
+    border-radius: 10px;
+    font-size: 37px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 13px 150px;
+}
+.btn.btn-danger.no{
+   border: medium none;
+    border-radius: 6px;
+    font-size: 37px;
+    margin-top: 0;
+    padding: 8px 67px;
+    background-color: #E4352F;
+}
+.yes{
+     border: medium none;
+    border-radius: 6px;
+    font-size: 37px;
+    margin-top: 0;
+    padding: 8px 67px;
+    margin-left: 10px; 
+    background-color: #87C846;
+}
+.firstinputbox{
+
+padding-bottom: 100px;
+  padding-top: 25px;
+}
+.btn.btn-success.two {
+    background-color: #fff;
+    border-radius: 10px;
+     font-size: 37px;
+    font-weight: bold;
+    margin: 10px 0;
+    font-family: eurostilebold;
+   padding: 13px 150px;
+    border:none;
+}
+.btn.btn-defult.three{
+   background-color: white;
+    border-radius: 10px;
+     font-size: 37px;
+    font-weight: bold;
+     font-family: eurostilebold;
+    color: 6f7175;
+    margin: 10px 0;
+     padding: 13px 150px;
+    border:none;
+}
+.btn.btn-success.enter {
+    background-color: #87c846;
+    border-radius: 10px;
+    font-family: eurostilebold;
+    font-size: 37px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 12px 100px;
+    border:none;
+}
+.weight p {
+     font-weight: bold;
+    background-color: white;
+    border-radius: 30px;
+    color: black;
+    font-family: eurostilebold;
+    font-size: 240px;
+    line-height: 224px;
+    margin-left: 21px;
+    margin-right: 28px;
+    padding-bottom: 0;
+    padding-top: 6px;
+}
+.btn-success.advance {
+    background-color: #87c846;
+    border: medium none;
+    border-radius: 10px;
+    font-family: eurostilebold;
+    font-size: 52px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 12px 50px;
+}
+.btn-success.same{
+     background-color: #87c846;
+    border: medium none;
+    border-radius: 10px;
+    font-family: eurostilebold;
+    font-size: 49px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 16px 116px;
+}
+.btn-danger.change{
+   background-color: #e4352f;
+    border: medium none;
+    border-radius: 14px;
+    font-family: eurostilebold;
+    font-size: 49px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 18px 90px;
+}
+  .weighttex2{
+      color: white;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 56px;
+    padding-bottom: 17px;
+    padding-top: 23px;
+    text-align: center;
+   }
+   .forth h1 {
+    color: #c4c4c6;
+    font-family: eurostilebold;
+    font-size: 49px;
+}
+
+
+.kubex h1 {
+    font-family: eurostilebold;
+    font-size: 100px;
+}
+.firstinputbox{
+padding-bottom: 100px;
+  padding-top: 21px;
+}
+.firstinput {
+    border: medium none;
+    border-radius: 17px;
+    font-size: 29px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding: 17px 0;
+    text-align: center;
+    width: 90%;
+}
+.btn.btn-danger.clear {
+    border: medium none;
+    border-radius: 6px;
+    font-size: 27px;
+    margin-top: 0;
+    padding: 8px 35px;
+}
+.btn-success.enter1{
+  border: medium none;
+    border-radius: 6px;
+    font-size: 27px;
+    margin-top: 0;
+    padding: 8px 35px;
+    margin-left: 10px;
+}
+.secondinputbox {
+    color: #1a1a1b;
+    line-height: 56px;
+    padding: 13px 22px 48px;
+    text-align: center;
+}
+.secondinput {
+    border-radius: 15px;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.weighttext h1 {
+    color: white;
+    font-family: eurostilebold;
+    font-size: 41px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+     font-weight: bold;
+    color: #C4C4C6;
+}
+ .footeri{
+ background-image: url("../img/kubex copy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 79px;
+    margin-bottom: 13px;
+     margin-top: 60px;
+    width: 96%;    
+}   
+}
+@media only screen and (max-width: 400px){
+      .fristh > h1 {
+  font-family: eurostilebold;
+    font-size: 20px;
+    padding-bottom: 25px;
+    padding-top: 0px !important;
+margin-top: 0px !important;
+}
+.secondh > h1 {
+     font-family: eurostilebold;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.thirdh > h1 {
+ font-family: eurostilebold;
+    font-size: 20px;
+    padding-bottom: 15px;   
+}
+.btn.btn-defult.one {
+	background-color: white;
+    border: medium none;
+    border-radius: 10px;
+    font-size: 33px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 13px 89px;
+}
+.btn.btn-success.two {
+    background-color: #fff;
+	color:#6f7175;
+    border-radius: 10px;
+    font-size: 33px;
+    font-weight: bold;
+    margin: 10px 0;
+    font-family: eurostilebold;
+   padding: 13px 89px;
+    border:none;
+}
+.btn.btn-defult.three{
+   background-color: white;
+    border-radius: 10px;
+     font-size: 33px;
+    font-weight: bold;
+     font-family: eurostilebold;
+    color: 6f7175;
+    margin: 10px 0;
+     padding: 13px 89px;
+    border:none;
+}
+.secondinputbox {
+    color: #1a1a1b;
+    line-height: 56px;
+    padding: 13px 22px 48px;
+    text-align: center;
+}
+.secondinput {
+    border-radius: 15px;
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.btn.btn-success.enter {
+    background-color: #87c846;
+    border-radius: 10px;
+    font-family: eurostilebold;
+    font-size: 33px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 10px 46px;
+    border:none;
+}
+.weight p {
+     font-weight: bold;
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    font-family: eurostilebold;
+    font-size: 160px;
+    line-height: 165px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.btn-success.advance{
+    background-color: #87c846;
+    border: medium none;
+    border-radius: 10px;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 10px 31px;
+}
+.btn-success.same{
+    background-color: #87c846;
+    border-radius: 10px;
+    font-family: eurostilebold;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 54px;
+    border:none;
+}
+.btn-danger.change{
+    background-color:#E4352F;
+    border-radius: 10px;
+    font-family: eurostilebold;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 30px;
+    border:none;
+}
+  .weighttex2{
+     color: white;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 30px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    text-align: center;
+   }
+   .forth h1 {
+    color: #c4c4c6;
+    font-family: eurostilebold;
+    font-size: 33px;
+}
+
+
+
+.weighttext h1 {
+    font-family: eurostilebold;
+    color: white;
+    font-size: 26px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+     font-weight: bold;
+    color: #C4C4C6;
+}
+.firstinputbox{
+padding-bottom: 100px;
+  padding-top: 15px;
+}
+.firstinput {
+    border: medium none;
+    border-radius: 10px;
+    font-size:35px;
+    font-weight: bold;
+    margin-bottom: 35px;
+    padding: 10px 0;
+    text-align: center;
+    width: 90%;
+}
+.btn.btn-danger.clear {
+    border: medium none;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 0;
+    padding: 8px 21px;
+}
+.btn.btn-danger.no{
+   border: medium none;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 0;
+    padding: 8px 42px;
+    background-color: #E4352F;
+}
+.yes{
+     border: medium none;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 0;
+    padding: 8px 42px;
+    margin-left: 10px;
+    background-color: #87C846;
+}
+.btn-success.enter1{
+  border: medium none;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 0;
+    padding: 8px 21px;
+    margin-left: 10px;
+}
+
+.kubex h1 {
+    font-family: eurostilebold;
+    font-size: 62px;
+}
+   .footeri{
+ background-image: url("../img/kubex copy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 71px;
+    margin-bottom: 13px;
+    margin-top: 42px;
+    width: 100%;
+} 
+}
+@media only screen and (max-width: 360px) {
+ .weighttex2{
+     color: white;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 30px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    text-align: center;
+   }
+}
